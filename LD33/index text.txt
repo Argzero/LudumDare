@@ -1,0 +1,38 @@
+Minstra.
+
+Unlike humans
+Fear light
+Fear togetherness *note: scripted scenes where they run away from you
+Bosses are puzzles => Giant versions of you that block passageways
+
+
+Plan:
+Work until 11pm
+11pm-2am break and go buy coffee for later + Make some coffee
+2am-7am build basic prototype platformer in Haxe/flambe
+	- Engine: 
+		Platforming, 
+		Custom square colliders for objects of ids,
+	= Level editor: 
+		XML LEVEL:
+			TILES
+				id : String
+				collide : Bool
+				position : x,y
+				collision box: xOff, yOff, w, h
+			MINSTRA
+				id : String
+				collide : Bool
+				position : x,y
+				collision box: xOff, yOff, w, h
+			OBJECTS
+				id : String
+				collide : Bool
+				position : x,y
+				opacity: 0.0->1.0
+				collision box: xOff, yOff, w, h
+	- Create several tile types 
+7-10am sleep + breakfast after
+10-6pm levels ---> 12-2pm break
+6-12pm polish
+12-5 music
