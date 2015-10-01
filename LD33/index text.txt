@@ -5,6 +5,8 @@ Fear light
 Fear togetherness *note: scripted scenes where they run away from you
 Bosses are puzzles => Giant versions of you that block passageways
 
+What actually happened:
+- Started writing my own Haxe engine
 
 Plan:
 Work until 11pm
